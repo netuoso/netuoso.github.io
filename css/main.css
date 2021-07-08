@@ -946,7 +946,7 @@ body > footer .copyrights {
 
 .info-list li {
   margin: 6px 0;
-  text-align: left;
+  text-align: center;
 }
 
 .info-list li .title {
@@ -1126,7 +1126,7 @@ body > footer .copyrights {
 }
 /*Skill 11*/
 .skill-percentage.skill-11 {
-  width: 65%;
+  width: 88%;
 }
 /*Skill 12*/
 .skill-percentage.skill-12 {
